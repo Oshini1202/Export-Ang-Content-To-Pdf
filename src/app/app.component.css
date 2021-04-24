@@ -1,0 +1,20 @@
+.pageWrapper {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+  button {
+      padding: 15px;
+  }
+  kendo-pdf-export {
+    font-family: "DejaVu Sans", "Arial", sans-serif;
+    font-size: 16px;
+    
+    
+  }
+  .content {
+    width: 1000px;
+    margin: 0 auto;
+    line-height: 20px;
+  }
